@@ -1,2 +1,2 @@
-# Refazendo
+# Atividades refeitas...
 Apenas alguns exercícios de C++ refeitos em Python.
