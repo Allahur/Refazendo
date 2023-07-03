@@ -3,7 +3,6 @@ Faça o código estruturado para controlar uma LIFO com arranjo não
 dinâmico contendo os atributos: nome, idade e salário. Você deverá 
 implementar as seguintes sub rotinas obrigatórias:
 ''''
-
 '''
 A. push() para empilhar o registro
 B. pop() para remover registros
